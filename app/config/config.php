@@ -1,6 +1,6 @@
 <?php  
 
-define('BASEURL', 'http://localhost:8887/prakweb2023_b_213040107_mvc/public');
+define('BASEURL', 'http://localhost:8887/prakweb2023_b_213040124_mvc/public');
 
 // DB
 define('DB_HOST', 'localhost');
